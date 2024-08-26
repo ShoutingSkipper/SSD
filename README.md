@@ -1,1 +1,1 @@
-# SSD
+# Secure Software Design Lab
